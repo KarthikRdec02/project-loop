@@ -11,7 +11,7 @@ public class SampleStatement {
 
 			if (i % 2 == 0) {
 
-				System.out.println(i);
+			
 			}
 		}
 	}
